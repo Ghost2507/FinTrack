@@ -97,11 +97,11 @@ Finance-Tracker/
 - Real-time financial visualization
   
 🧪 **Testing**
-Test Type	                  Status
-Frontend Functionality	    ✅ Passed
-Backend Routes	            ✅ Passed
-Database Connectivity	      ✅ Passed
-Responsive Design	          ✅ Passed
+  Test Type	                   Status
+- Frontend Functionality	    ✅ Passed
+- Backend Routes	            ✅ Passed
+- Database Connectivity	      ✅ Passed
+- Responsive Design	          ✅ Passed
 
 📈 **Project Outcomes**
 - Managed and processed 200+ transaction records
